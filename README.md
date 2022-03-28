@@ -1,0 +1,1 @@
+# AlghoritmLAB1
